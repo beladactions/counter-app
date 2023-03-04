@@ -1,0 +1,93 @@
+/*
+AUTHOR:   BELOVED ADEJUYIGBE
+NICKNAME: beladactions
+PROJECT:  A counter App
+
+/* The body style of this project*/
+
+
+body {
+    
+    background-image: url(counterimg.jpg);
+    background-size: cover;
+
+  }
+
+
+
+  h1 {
+
+    margin-top: 50px;
+    margin-bottom: 10px;
+    font-size: 75px;
+    text-align: center;
+  }
+
+
+  h2 {
+
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+
+  button {
+
+    border: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bolder;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+
+  }
+
+
+  p {
+
+    color: white;
+  }
+
+
+  .cent-container {
+
+    text-align: center;
+  
+  }
+
+
+  .cent-pa {
+
+      background-color: green;
+      border-radius: 10px;
+      padding: 2px;
+      width: 500px;
+      margin: auto;
+      text-align: center;
+      
+  }
+
+
+
+  #increase-btn {
+
+    background: darkgreen;
+    
+    
+  }
+
+  #save-btn {
+
+    background-color: black;
+  }
+
+
+  #save-el {
+
+    font-size: 25px;
+    font-weight: 600;
+  }
+
